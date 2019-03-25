@@ -1,0 +1,2 @@
+# GAME-QT-Cute_Maze
+CuteMaze is a simple, top-down game in which mazes are randomly generated using one of a choice of several different algorithms. You move the character through the maze while hunting for targets (cheese, by default)—the game is won once all of these targets have been picked up.
